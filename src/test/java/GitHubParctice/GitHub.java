@@ -6,6 +6,7 @@ public class GitHub {
 	@Test
 	public void Demo() {
 		System.out.println("NEw Commit and Push");
+		System.out.println("Pushing to other account");
 	}
 
 }
