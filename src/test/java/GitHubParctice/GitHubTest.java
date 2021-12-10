@@ -2,7 +2,7 @@ package GitHubParctice;
 
 import org.testng.annotations.Test;
 
-public class GitHub {
+public class GitHubTest {
 	@Test
 	public void Demo() {
 		
@@ -12,21 +12,13 @@ public class GitHub {
 			System.out.println("print");
 		}
 		System.out.println("NEw Commit and Push");
-
-		System.out.println("hi world");
-		System.out.println("new push");
-		System.out.println("github");
-
 		System.out.println("Pushing to other account");
 		System.out.println("con");
 		System.out.println("New con");
+		System.out.println("===+++===");
 		System.out.println("Pushing to other account 2nd");
-		System.out.println("Added by Vinay");
-
-		System.out.println("Added by me")
-      System.out.println("AVINASH");
-
-
+		System.out.println("github");
+	
 	}
 
 }
