@@ -2,7 +2,7 @@ package GitHubParctice;
 
 import org.testng.annotations.Test;
 
-public class GitHub {
+public class GitHubTest {
 	@Test
 	public void Demo() {
 		
